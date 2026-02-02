@@ -64,8 +64,8 @@ I focus on building **data-driven, AI-powered solutions** that turn static onlin
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDINwww.linkedin.com/in/marvin-atorf
+- GitHub: https://github.com/MarvinAtorf
 
 ---
 
