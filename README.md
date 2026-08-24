@@ -60,13 +60,6 @@ Simulates the full World Cup 2026 knockout bracket using a Dixon-Coles model and
 Predicts World Cup 2026 match outcomes using an XGBoost classifier and a Poisson regression + Monte Carlo model, with SHAP explainability.
 `XGBoost` `SHAP` `Streamlit`
 
-### Moosic — Music Clustering
-Unsupervised clustering of ~5,000 Spotify songs by audio features (K-Means, UMAP visualization), tuned for musically interpretable genre groups rather than pure silhouette score.
-`scikit-learn` `UMAP`
-
-### London Air Quality Forecasting
-NO2 forecasting for Kensington & Chelsea using XGBoost with engineered cyclical, lag, and rolling features; written up as a German-language Medium article.
-`XGBoost` `GridSearchCV` `TimeSeriesSplit`
 
 ---
 
