@@ -37,21 +37,17 @@ Pandas · NumPy · SQLAlchemy · Matplotlib · Seaborn · Tableau · BigQuery ·
 
 ## 🚀 Featured Projects
 
-### [RoadVision AI](.) — WBS Graduation Project
+### [roadvision_copilot](.) — WBS Graduation Project
 Traffic-sign analysis system combining a computer-vision pipeline (YOLO, 43 GTSDB classes) with an LLM chatbot backend for German road-sign (StVO) lookups and report generation.
 `FastAPI` `Streamlit` `Docker Compose` `LlamaIndex` `ChromaDB` `Claude Haiku/Sonnet`
 
-### [CV RAG Chatbot](.)
+### [cv-chatbot](.)
 A standalone RAG chatbot that analyzes uploaded CVs, with hierarchical chunking, auto-merging retrieval, and cross-encoder reranking for accurate document Q&A.
 `LlamaIndex` `Claude Sonnet` `Ragas evaluation` `Streamlit`
 
 ### [Shopware AI Chatbot](.)
 RAG-enabled sales assistant for a Shopware 6 shop, combining product knowledge retrieval with RFM/UMAP/HDBSCAN customer segmentation for personalized recommendations.
 `FastAPI` `Claude Haiku/Sonnet` `ChromaDB` `Streamlit`
-
-### [Bewerbungs-Assistent (Cover Letter Generator)](.)
-Multi-page Streamlit app that analyzes job ads, matches them against a personal skills/experience profile, and drafts tailored cover letters — with an anti-AI-tone filter to keep the writing natural.
-`Pydantic` `Claude Haiku/Sonnet` `Streamlit`
 
 ### [Lawn Health Analyzer](.)
 Analyzes drone footage to assess lawn health using a U-Net CNN for grass segmentation combined with HSV color analysis and local weather data.
