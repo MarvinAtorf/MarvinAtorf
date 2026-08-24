@@ -18,7 +18,6 @@ I'm transitioning from **Shopware 6 web development** (PHP/JavaScript) into **Da
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=flat&logoColor=white)
