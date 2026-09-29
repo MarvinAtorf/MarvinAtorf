@@ -36,7 +36,7 @@ Pandas · NumPy · SQLAlchemy · Matplotlib · Seaborn · Tableau · BigQuery ·
 
 ## 🚀 Featured Projects
 
-### [roadvision_copilot](.) — WBS Graduation Project
+### [roadvision_copilot](https://github.com/MarvinAtorf/roadvision_copilot) — WBS Graduation Project
 Traffic-sign analysis system combining a computer-vision pipeline (YOLO, 43 GTSDB classes) with an LLM chatbot backend for German road-sign (StVO) lookups and report generation.
 `FastAPI` `Streamlit` `Docker Compose` `LlamaIndex` `ChromaDB` `Claude Haiku/Sonnet`
 
